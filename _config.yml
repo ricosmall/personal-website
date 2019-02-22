@@ -10,7 +10,7 @@ permalink: /:year/:month/:day/:title/
 defaults:
   -
     scope:
-      path: "/personal-site" # an empty string here means all files in the project
+      path: "/personal-site/" # an empty string here means all files in the project
       type: "posts"
     values:
       layout: "post"
