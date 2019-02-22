@@ -5,7 +5,8 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
-permalink: /personal-website/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+baseurl: /personal-website
 
 defaults:
   -
