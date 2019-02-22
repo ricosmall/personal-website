@@ -6,7 +6,6 @@ plugins:
   - jekyll-github-metadata
 
 permalink: /:year/:month/:day/:title/
-baseurl: /personal-website
 
 defaults:
   -
